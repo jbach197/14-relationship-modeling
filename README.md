@@ -3,7 +3,7 @@
 * Link to master https://github.com/jbach197/14-relationship-modeling
 * Link to pull request https://github.com/jbach197/14-relationship-modeling/pull/1
 * Link to Heroku https://bachlab-14.herokuapp.com/
-* Link to Travis
+* Link to Travis https://travis-ci.com/jbach197/14-relationship-modeling
 
 ## Configuration 
 
